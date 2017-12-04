@@ -1,0 +1,582 @@
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;3;04-10-2017 15:14:31;Escolha o alimento mais processado;41;0;71;2;71 eh mais processado que 41;True;7;2.428378
+0;My name;My age;2;3;04-10-2017 15:14:32;Escolha o alimento mais processado;76;2;33;0;76 eh mais processado que 33;False;4;0.7888546
+0;My name;My age;2;3;04-10-2017 15:14:33;Escolha o alimento menos processado;67;2;37;0;37 eh menos processado que 67;True;11;0.4973269
+0;My name;My age;2;3;04-10-2017 15:14:35;Escolha o alimento mais processado;48;0;54;2;54 eh mais processado que 48;False;8;0.4141655
+0;My name;My age;2;3;04-10-2017 15:14:36;Escolha o alimento menos processado;38;1;7;0;7 eh menos processado que 38;True;15;0.4641895
+0;My name;My age;2;3;04-10-2017 15:14:37;Escolha o alimento menos processado;1;0;56;2;1 eh menos processado que 56;False;12;0.5694122
+0;My name;My age;2;3;04-10-2017 15:14:38;Escolha o alimento menos processado;15;0;23;2;15 eh menos processado que 23;True;19;0.3313284
+0;My name;My age;2;3;04-10-2017 15:14:40;Escolha o alimento menos processado;27;0;3;2;27 eh menos processado que 3;False;16;0.9115467
+0;My name;My age;2;3;04-10-2017 15:14:40;Escolha o alimento mais processado;68;2;53;0;68 eh mais processado que 53;False;13;0.2484989
+0;My name;My age;2;3;04-10-2017 15:14:41;Escolha o alimento mais processado;32;1;4;2;4 eh mais processado que 32;True;20;0.08283329
+0;My name;My age;2;3;04-10-2017 15:14:41;Escolha o alimento mais processado;74;0;77;2;77 eh mais processado que 74;True;27;0.03664398
+0;My name;My age;2;3;04-10-2017 15:14:41;Escolha o alimento menos processado;64;1;34;0;34 eh menos processado que 64;True;34;0.04213905
+0;My name;My age;2;3;04-10-2017 15:14:41;Escolha o alimento mais processado;49;2;24;0;49 eh mais processado que 24;False;31;0.09939957
+0;My name;My age;2;3;04-10-2017 15:14:41;Escolha o alimento mais processado;80;0;26;2;26 eh mais processado que 80;False;28;0.0557251
+0;My name;My age;2;3;04-10-2017 15:14:42;Escolha o alimento mais processado;36;1;18;0;36 eh mais processado que 18;False;25;0.08283234
+0;My name;My age;2;3;04-10-2017 15:14:42;Escolha o alimento mais processado;13;2;45;0;13 eh mais processado que 45;False;22;0.02034283
+0;My name;My age;2;3;04-10-2017 15:14:42;Escolha o alimento mais processado;75;2;17;0;75 eh mais processado que 17;True;29;0.06626701
+0;My name;My age;2;3;04-10-2017 15:14:42;Escolha o alimento mais processado;2;0;79;2;79 eh mais processado que 2;False;26;0.03924274
+0;My name;My age;2;3;04-10-2017 15:14:43;Escolha o alimento mais processado;65;2;21;1;65 eh mais processado que 21;False;23;0.02159023
+0;My name;My age;2;3;04-10-2017 15:14:43;Escolha o alimento mais processado;25;1;12;2;12 eh mais processado que 25;True;30;0.06830978
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;1;04-10-2017 15:17:29;Escolha o alimento menos processado;74;0;59;2;74 eh menos processado que 59;True;7;5.357172
+0;My name;My age;2;1;04-10-2017 15:17:31;Escolha o alimento menos processado;29;0;21;1;29 eh menos processado que 21;True;14;1.358507
+0;My name;My age;2;1;04-10-2017 15:17:32;Escolha o alimento menos processado;54;2;47;0;47 eh menos processado que 54;True;21;1.176262
+0;My name;My age;2;1;04-10-2017 15:17:33;Escolha o alimento mais processado;34;0;75;2;75 eh mais processado que 34;True;28;1.060299
+0;My name;My age;2;1;04-10-2017 15:17:34;Escolha o alimento mais processado;28;0;72;2;72 eh mais processado que 28;True;35;0.7289543
+0;My name;My age;2;1;04-10-2017 15:17:35;Escolha o alimento mais processado;23;2;19;0;23 eh mais processado que 19;True;42;0.6958179
+0;My name;My age;2;1;04-10-2017 15:17:36;Escolha o alimento mais processado;76;2;39;0;76 eh mais processado que 39;True;49;0.6792545
+0;My name;My age;2;1;04-10-2017 15:17:37;Escolha o alimento mais processado;46;2;17;0;46 eh mais processado que 17;True;56;0.6626873
+0;My name;My age;2;1;04-10-2017 15:17:38;Escolha o alimento mais processado;42;1;8;2;8 eh mais processado que 42;True;63;0.6461201
+0;My name;My age;2;1;04-10-2017 15:17:39;Escolha o alimento menos processado;57;2;36;1;36 eh menos processado que 57;True;70;0.9774609
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;1;04-10-2017 15:31:30;Escolha o alimento menos processado;66;2;24;0;24 eh menos processado que 66;True;7;2.709124
+0;My name;My age;2;1;04-10-2017 15:31:30;Escolha o alimento menos processado;71;2;1;0;1 eh menos processado que 71;False;4;0.3811054
+0;My name;My age;2;1;04-10-2017 15:31:31;Escolha o alimento menos processado;42;1;39;0;39 eh menos processado que 42;True;11;0.2190819
+0;My name;My age;2;1;04-10-2017 15:31:31;Escolha o alimento mais processado;32;1;55;2;55 eh mais processado que 32;False;8;0.1864929
+0;My name;My age;2;1;04-10-2017 15:31:32;Escolha o alimento mais processado;10;2;69;0;10 eh mais processado que 69;False;5;0.1881828
+0;My name;My age;2;1;04-10-2017 15:31:32;Escolha o alimento menos processado;25;1;73;2;25 eh menos processado que 73;True;12;0.2220726
+0;My name;My age;2;1;04-10-2017 15:31:33;Escolha o alimento mais processado;12;2;7;0;12 eh mais processado que 7;False;9;0.2040558
+0;My name;My age;2;1;04-10-2017 15:31:33;Escolha o alimento mais processado;64;1;74;0;64 eh mais processado que 74;True;16;0.2027969
+0;My name;My age;2;1;04-10-2017 15:31:34;Escolha o alimento mais processado;75;2;45;0;75 eh mais processado que 45;False;13;0.6175289
+0;My name;My age;2;1;04-10-2017 15:31:35;Escolha o alimento mais processado;35;0;59;2;59 eh mais processado que 35;False;10;0.7026062
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;1;04-10-2017 15:34:57;Escolha o alimento menos processado;7;0;77;2;7 eh menos processado que 77;True;7;13.79043
+0;My name;My age;2;1;04-10-2017 15:34:59;Escolha o alimento menos processado;14;0;13;2;14 eh menos processado que 13;True;14;1.143137
+0;My name;My age;2;1;04-10-2017 15:35:00;Escolha o alimento menos processado;75;2;20;0;20 eh menos processado que 75;False;11;1.225971
+0;My name;My age;2;1;04-10-2017 15:35:02;Escolha o alimento mais processado;6;0;51;2;51 eh mais processado que 6;False;8;1.358513
+0;My name;My age;2;1;04-10-2017 15:35:04;Escolha o alimento mais processado;55;2;78;1;55 eh mais processado que 78;False;5;1.275669
+0;My name;My age;2;1;04-10-2017 15:35:06;Escolha o alimento mais processado;79;2;18;0;79 eh mais processado que 18;True;12;1.126568
+0;My name;My age;2;1;04-10-2017 15:35:07;Escolha o alimento mais processado;57;2;60;0;57 eh mais processado que 60;True;19;1.176268
+0;My name;My age;2;1;04-10-2017 15:35:10;Escolha o alimento mais processado;17;0;76;2;76 eh mais processado que 17;True;26;2.253138
+0;My name;My age;2;1;04-10-2017 15:35:15;Escolha o alimento mais processado;70;0;56;2;56 eh mais processado que 70;True;33;4.638803
+0;My name;My age;2;1;04-10-2017 15:35:16;Escolha o alimento mais processado;8;2;27;0;8 eh mais processado que 27;False;30;0.6626892
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;1;06-10-2017 16:14:38;Escolha o alimento menos processado;70;0;72;2;70 eh menos processado que 72;True;7;6.303761
+0;My name;My age;2;1;06-10-2017 16:14:45;Escolha o alimento mais processado;16;0;12;2;12 eh mais processado que 16;True;14;3.661343
+0;My name;My age;2;1;06-10-2017 16:14:53;Escolha o alimento menos processado;41;0;36;1;41 eh menos processado que 36;True;21;3.89328
+0;My name;My age;2;1;06-10-2017 16:14:59;Escolha o alimento mais processado;53;0;49;2;49 eh mais processado que 53;False;18;4.241196
+0;My name;My age;2;1;06-10-2017 16:15:07;Escolha o alimento menos processado;64;1;66;2;64 eh menos processado que 66;True;25;4.539402
+0;My name;My age;2;1;06-10-2017 16:15:11;Escolha o alimento menos processado;19;0;56;2;19 eh menos processado que 56;True;32;2.352535
+0;My name;My age;2;1;06-10-2017 16:15:14;Escolha o alimento mais processado;21;1;55;2;55 eh mais processado que 21;True;39;2.352533
+0;My name;My age;2;1;06-10-2017 16:15:17;Escolha o alimento mais processado;43;1;40;0;43 eh mais processado que 40;True;46;3.180891
+0;My name;My age;2;1;06-10-2017 16:15:20;Escolha o alimento menos processado;79;2;38;1;38 eh menos processado que 79;True;53;1.88866
+0;My name;My age;2;1;06-10-2017 16:15:22;Escolha o alimento menos processado;51;2;78;1;78 eh menos processado que 51;True;60;1.507605
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;1;10-10-2017 16:06:23;Escolha o alimento menos processado;69;0;42;1;69 eh menos processado que 42;True;7;4.310314
+0;My name;My age;2;1;10-10-2017 16:06:25;Escolha o alimento mais processado;32;1;24;0;32 eh mais processado que 24;True;14;1.408205
+0;My name;My age;2;1;10-10-2017 16:06:28;Escolha o alimento menos processado;31;0;62;2;31 eh menos processado que 62;True;21;2.70042
+0;My name;My age;2;1;10-10-2017 16:06:29;Escolha o alimento mais processado;13;2;7;0;13 eh mais processado que 7;True;28;1.292234
+0;My name;My age;2;1;10-10-2017 16:06:30;Escolha o alimento menos processado;41;0;77;2;41 eh menos processado que 77;True;35;1.275652
+0;My name;My age;2;1;10-10-2017 16:06:32;Escolha o alimento mais processado;22;0;46;2;46 eh mais processado que 22;True;42;1.093428
+0;My name;My age;2;1;10-10-2017 16:06:33;Escolha o alimento mais processado;15;0;4;2;4 eh mais processado que 15;True;49;0.9774475
+0;My name;My age;2;1;10-10-2017 16:06:34;Escolha o alimento mais processado;51;2;63;0;51 eh mais processado que 63;True;56;1.275663
+0;My name;My age;2;1;10-10-2017 16:06:36;Escolha o alimento menos processado;76;2;36;1;36 eh menos processado que 76;True;63;1.109993
+0;My name;My age;2;1;10-10-2017 16:06:37;Escolha o alimento mais processado;61;0;3;2;3 eh mais processado que 61;False;60;1.474466
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;1;10-10-2017 16:47:36;Escolha o alimento menos processado;53;0;12;2;53 eh menos processado que 12;False;-3;2.427717
+0;My name;My age;2;1;10-10-2017 16:47:36;Escolha o alimento menos processado;52;0;8;2;52 eh menos processado que 8;True;4;0.2000751
+0;My name;My age;2;1;10-10-2017 16:47:37;Escolha o alimento menos processado;63;0;59;2;63 eh menos processado que 59;False;1;0.1143074
+0;My name;My age;2;1;10-10-2017 16:47:37;Escolha o alimento mais processado;7;0;46;2;46 eh mais processado que 7;True;8;0.1187515
+0;My name;My age;2;1;10-10-2017 16:47:37;Escolha o alimento mais processado;29;0;78;1;78 eh mais processado que 29;True;15;0.09940338
+0;My name;My age;2;1;10-10-2017 16:47:37;Escolha o alimento mais processado;16;0;26;2;26 eh mais processado que 16;False;12;0.03313446
+0;My name;My age;2;1;10-10-2017 16:47:38;Escolha o alimento mais processado;62;2;70;0;62 eh mais processado que 70;True;19;0.0886898
+0;My name;My age;2;1;10-10-2017 16:47:38;Escolha o alimento mais processado;24;0;38;1;38 eh mais processado que 24;False;16;0.08868408
+0;My name;My age;2;1;10-10-2017 16:47:38;Escolha o alimento mais processado;47;0;57;2;57 eh mais processado que 47;True;23;0.03313446
+0;My name;My age;2;1;10-10-2017 16:47:38;Escolha o alimento menos processado;13;2;25;1;25 eh menos processado que 13;True;30;0.06626892
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;1;10-10-2017 17:15:11;Escolha o alimento mais processado;60;0;36;1;36 eh mais processado que 60;True;7;2.168413
+0;My name;My age;2;1;10-10-2017 17:15:12;Escolha o alimento mais processado;4;2;69;0;4 eh mais processado que 69;True;14;1.110001
+0;My name;My age;2;1;10-10-2017 17:15:14;Escolha o alimento mais processado;79;2;25;1;79 eh mais processado que 25;True;21;1.805824
+0;My name;My age;2;1;10-10-2017 17:15:16;Escolha o alimento mais processado;5;0;65;2;65 eh mais processado que 5;True;28;1.375074
+0;My name;My age;2;1;10-10-2017 17:15:17;Escolha o alimento menos processado;33;0;68;2;33 eh menos processado que 68;True;35;0.977459
+0;My name;My age;2;1;10-10-2017 17:15:18;Escolha o alimento menos processado;21;1;48;0;48 eh menos processado que 21;False;32;1.50761
+0;My name;My age;2;1;10-10-2017 17:15:19;Escolha o alimento menos processado;62;2;39;0;39 eh menos processado que 62;True;39;0.8283558
+0;My name;My age;2;1;10-10-2017 17:15:21;Escolha o alimento mais processado;44;0;57;2;57 eh mais processado que 44;True;46;1.209404
+0;My name;My age;2;1;10-10-2017 17:15:22;Escolha o alimento mais processado;56;2;41;0;56 eh mais processado que 41;True;53;0.7952232
+0;My name;My age;2;1;10-10-2017 17:15:23;Escolha o alimento mais processado;50;0;38;1;38 eh mais processado que 50;True;60;1.126566
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;1;10-10-2017 17:24:01;Escolha o alimento menos processado;43;1;14;0;14 eh menos processado que 43;True;7;2.540276
+0;My name;My age;2;1;10-10-2017 17:24:03;Escolha o alimento mais processado;13;2;70;0;13 eh mais processado que 70;True;14;1.209404
+0;My name;My age;2;1;10-10-2017 17:24:04;Escolha o alimento menos processado;26;2;52;0;52 eh menos processado que 26;True;21;1.426054
+0;My name;My age;2;1;10-10-2017 17:24:06;Escolha o alimento menos processado;41;0;32;1;41 eh menos processado que 32;True;28;1.110001
+0;My name;My age;2;1;10-10-2017 17:24:07;Escolha o alimento mais processado;16;0;76;2;76 eh mais processado que 16;True;35;0.9111958
+0;My name;My age;2;1;10-10-2017 17:24:08;Escolha o alimento mais processado;39;0;8;2;8 eh mais processado que 39;True;42;0.9940262
+0;My name;My age;2;1;10-10-2017 17:24:09;Escolha o alimento mais processado;42;1;79;2;79 eh mais processado que 42;True;49;1.358507
+0;My name;My age;2;1;10-10-2017 17:24:11;Escolha o alimento mais processado;1;0;71;2;71 eh mais processado que 1;True;56;1.060297
+0;My name;My age;2;1;10-10-2017 17:24:12;Escolha o alimento mais processado;44;0;12;2;12 eh mais processado que 44;True;63;0.9443264
+0;My name;My age;2;1;10-10-2017 17:24:14;Escolha o alimento mais processado;61;0;66;2;66 eh mais processado que 61;True;70;1.507599
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;1;11-10-2017 17:29:42;Escolha o alimento mais processado;77;2;74;0;77 eh mais processado que 74;False;-3;2.080091
+0;My name;My age;2;1;11-10-2017 17:29:43;Escolha o alimento menos processado;57;2;17;0;17 eh menos processado que 57;False;-6;0.2153645
+0;My name;My age;2;1;11-10-2017 17:29:44;Escolha o alimento mais processado;48;0;59;2;59 eh mais processado que 48;True;1;0.1656685
+0;My name;My age;2;1;11-10-2017 17:29:45;Escolha o alimento menos processado;2;0;10;2;2 eh menos processado que 10;True;8;0.3147678
+0;My name;My age;2;1;11-10-2017 17:29:46;Escolha o alimento menos processado;58;0;67;2;58 eh menos processado que 67;True;15;0.1646786
+0;My name;My age;2;1;11-10-2017 17:29:46;Escolha o alimento menos processado;34;0;43;1;34 eh menos processado que 43;False;12;0.2650661
+0;My name;My age;2;1;11-10-2017 17:29:47;Escolha o alimento mais processado;65;2;47;0;65 eh mais processado que 47;True;19;0.5632706
+0;My name;My age;2;1;11-10-2017 17:29:47;Escolha o alimento mais processado;52;0;64;1;64 eh mais processado que 52;True;26;0.1490974
+0;My name;My age;2;1;11-10-2017 17:29:48;Escolha o alimento mais processado;39;0;42;1;42 eh mais processado que 39;False;23;0.1424179
+0;My name;My age;2;1;11-10-2017 17:29:48;Escolha o alimento mais processado;80;0;66;2;66 eh mais processado que 80;True;30;0.1325302
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;My name;My age;2;1;17-10-2017 15:46:52;Escolha o alimento menos processado;62;2;60;0;60 eh menos processado que 62;True;7;10.12596
+0;My name;My age;2;1;17-10-2017 15:46:56;Escolha o alimento menos processado;77;2;63;0;63 eh menos processado que 77;True;14;1.872087
+0;My name;My age;2;1;17-10-2017 15:46:57;Escolha o alimento mais processado;29;0;57;2;57 eh mais processado que 29;True;21;1.010595
+0;My name;My age;2;1;17-10-2017 15:47:00;Escolha o alimento menos processado;55;2;53;0;53 eh menos processado que 55;True;28;2.004625
+0;My name;My age;2;1;17-10-2017 15:47:03;Escolha o alimento menos processado;24;0;26;2;24 eh menos processado que 26;True;35;2.054329
+0;My name;My age;2;1;17-10-2017 15:47:07;Escolha o alimento mais processado;74;0;78;1;78 eh mais processado que 74;True;42;2.004627
+0;My name;My age;2;1;17-10-2017 15:47:09;Escolha o alimento mais processado;8;2;25;1;8 eh mais processado que 25;True;49;1.391645
+0;My name;My age;2;1;17-10-2017 15:47:11;Escolha o alimento mais processado;56;2;15;0;56 eh mais processado que 15;True;56;0.9608974
+0;My name;My age;2;1;17-10-2017 15:47:12;Escolha o alimento mais processado;4;2;16;0;4 eh mais processado que 16;False;53;1.292236
+0;My name;My age;2;1;17-10-2017 15:47:16;Escolha o alimento menos processado;71;2;32;1;32 eh menos processado que 71;True;60;1.358505
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;18-10-2017 17:33:45;Escolha o alimento menos processado;38;1;68;2;38 eh menos processado que 68;False;-3;0.9989109
+0;Salvador;1;2;1;18-10-2017 17:33:45;Escolha o alimento mais processado;61;0;79;2;79 eh mais processado que 61;True;4;0.06626892
+0;Salvador;1;2;1;18-10-2017 17:33:46;Escolha o alimento mais processado;55;2;14;0;55 eh mais processado que 14;False;1;0.03313255
+0;Salvador;1;2;1;18-10-2017 17:33:46;Escolha o alimento menos processado;46;2;5;0;5 eh menos processado que 46;True;8;0.04969978
+0;Salvador;1;2;1;18-10-2017 17:33:46;Escolha o alimento mais processado;32;1;18;0;32 eh mais processado que 18;False;5;0.06626701
+0;Salvador;1;2;1;18-10-2017 17:33:46;Escolha o alimento menos processado;60;0;13;2;60 eh menos processado que 13;False;2;0.1159687
+0;Salvador;1;2;1;18-10-2017 17:33:48;Escolha o alimento mais processado;26;2;47;0;26 eh mais processado que 47;False;-1;1.394346
+0;Salvador;1;2;1;18-10-2017 17:33:49;Escolha o alimento menos processado;77;2;30;0;30 eh menos processado que 77;True;6;0.08283234
+0;Salvador;1;2;1;18-10-2017 17:33:49;Escolha o alimento mais processado;43;1;51;2;51 eh mais processado que 43;True;13;0.07455063
+0;Salvador;1;2;1;18-10-2017 17:33:49;Escolha o alimento mais processado;72;2;41;0;72 eh mais processado que 41;False;10;0.04969978
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;19-10-2017 17:24:57;Escolha o alimento mais processado;2;0;10;2;10 eh mais processado que 2;True;7;23.86308
+0;Salvador;1;2;1;19-10-2017 17:25:01;Escolha o alimento menos processado;75;2;78;1;78 eh menos processado que 75;True;14;3.134079
+0;Salvador;1;2;1;19-10-2017 17:25:05;Escolha o alimento menos processado;71;2;50;0;50 eh menos processado que 71;True;21;3.263731
+0;Salvador;1;2;1;19-10-2017 17:25:07;Escolha o alimento mais processado;62;2;17;0;62 eh mais processado que 17;True;28;1.192841
+0;Salvador;1;2;1;19-10-2017 17:25:09;Escolha o alimento menos processado;24;0;4;2;24 eh menos processado que 4;True;35;1.408207
+0;Salvador;1;2;1;19-10-2017 17:25:11;Escolha o alimento menos processado;23;2;21;1;21 eh menos processado que 23;True;42;2.03776
+0;Salvador;1;2;1;19-10-2017 17:25:14;Escolha o alimento mais processado;43;1;37;0;43 eh mais processado que 37;True;49;1.939306
+0;Salvador;1;2;1;19-10-2017 17:25:16;Escolha o alimento mais processado;67;2;74;0;67 eh mais processado que 74;True;56;1.872152
+0;Salvador;1;2;1;19-10-2017 17:25:19;Escolha o alimento menos processado;52;0;11;2;52 eh menos processado que 11;True;63;1.5578
+0;Salvador;1;2;1;19-10-2017 17:25:20;Escolha o alimento mais processado;54;2;16;0;54 eh mais processado que 16;True;70;1.376333
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;leonardo;1;2;1;20-10-2017 16:17:13;Escolha o alimento menos processado;12;2;20;0;20 eh menos processado que 12;True;7;2.392492
+0;leonardo;1;2;1;20-10-2017 16:17:15;Escolha o alimento mais processado;60;0;13;2;13 eh mais processado que 60;True;14;2.140818
+0;leonardo;1;2;1;20-10-2017 16:17:17;Escolha o alimento mais processado;64;1;30;0;64 eh mais processado que 30;True;21;1.5112
+0;leonardo;1;2;1;20-10-2017 16:17:20;Escolha o alimento menos processado;63;0;57;2;63 eh menos processado que 57;True;28;3.187994
+0;leonardo;1;2;1;20-10-2017 16:17:27;Escolha o alimento menos processado;26;2;35;0;35 eh menos processado que 26;True;35;5.991802
+0;leonardo;1;2;1;20-10-2017 16:17:28;Escolha o alimento menos processado;19;0;11;2;19 eh menos processado que 11;True;42;1.393848
+0;leonardo;1;2;1;20-10-2017 16:17:31;Escolha o alimento mais processado;67;2;74;0;67 eh mais processado que 74;True;49;2.487803
+0;leonardo;1;2;1;20-10-2017 16:17:32;Escolha o alimento mais processado;3;2;61;0;3 eh mais processado que 61;True;56;0.9486618
+0;leonardo;1;2;1;20-10-2017 16:17:34;Escolha o alimento mais processado;32;1;34;0;32 eh mais processado que 34;True;63;1.427889
+0;leonardo;1;2;1;20-10-2017 16:17:35;Escolha o alimento mais processado;17;0;72;2;72 eh mais processado que 17;True;70;1.015593
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;leonardo;1;2;1;20-10-2017 16:56:00;Escolha o alimento menos processado;77;2;24;0;24 eh menos processado que 77;False;-3;0
+0;leonardo;1;2;1;20-10-2017 16:56:03;Escolha o alimento mais processado;36;1;29;0;36 eh mais processado que 29;True;4;0
+0;leonardo;1;2;1;20-10-2017 16:56:04;Escolha o alimento menos processado;66;2;28;0;28 eh menos processado que 66;False;1;0
+0;leonardo;1;2;1;20-10-2017 16:56:04;Escolha o alimento mais processado;38;1;11;2;11 eh mais processado que 38;False;-2;0
+0;leonardo;1;2;1;20-10-2017 16:56:05;Escolha o alimento menos processado;2;0;79;2;2 eh menos processado que 79;True;5;0
+0;leonardo;1;2;1;20-10-2017 16:56:05;Escolha o alimento menos processado;26;2;70;0;70 eh menos processado que 26;False;2;0
+0;leonardo;1;2;1;20-10-2017 16:56:06;Escolha o alimento mais processado;10;2;37;0;10 eh mais processado que 37;True;9;0
+0;leonardo;1;2;1;20-10-2017 16:56:06;Escolha o alimento mais processado;18;0;67;2;67 eh mais processado que 18;False;6;0
+0;leonardo;1;2;1;20-10-2017 16:56:07;Escolha o alimento mais processado;56;2;19;0;56 eh mais processado que 19;True;13;0
+0;leonardo;1;2;1;20-10-2017 16:56:07;Escolha o alimento menos processado;71;2;43;1;43 eh menos processado que 71;False;10;0
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;leonardo;1;2;1;20-10-2017 17:14:26;Escolha o alimento menos processado;70;0;67;2;70 eh menos processado que 67;True;7;9.362703
+0;leonardo;1;2;1;20-10-2017 17:14:45;Escolha o alimento mais processado;60;0;25;1;25 eh mais processado que 60;True;14;17.60253
+0;leonardo;1;2;1;20-10-2017 17:14:53;Escolha o alimento menos processado;43;1;49;2;43 eh menos processado que 49;True;21;6.837067
+0;leonardo;1;2;1;20-10-2017 17:14:57;Escolha o alimento menos processado;36;1;68;2;36 eh menos processado que 68;True;28;3.321131
+0;leonardo;1;2;1;20-10-2017 17:15:00;Escolha o alimento menos processado;55;2;19;0;19 eh menos processado que 55;True;35;2.686813
+0;leonardo;1;2;1;20-10-2017 17:15:03;Escolha o alimento menos processado;76;2;50;0;50 eh menos processado que 76;True;42;1.858521
+0;leonardo;1;2;1;20-10-2017 17:15:05;Escolha o alimento menos processado;29;0;38;1;29 eh menos processado que 38;True;49;1.626947
+0;leonardo;1;2;1;20-10-2017 17:15:09;Escolha o alimento mais processado;1;0;51;2;51 eh mais processado que 1;True;56;3.067894
+0;leonardo;1;2;1;20-10-2017 17:15:13;Escolha o alimento mais processado;26;2;80;0;26 eh mais processado que 80;True;63;3.199196
+0;leonardo;1;2;1;20-10-2017 17:15:17;Escolha o alimento mais processado;16;0;71;2;71 eh mais processado que 16;True;70;2.556046
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;leonardo;1;2;1;25-10-2017 15:06:41;Escolha o alimento menos processado;55;2;33;0;33 eh menos processado que 55;True;7;3.200836
+0;leonardo;1;2;1;25-10-2017 15:06:44;Escolha o alimento menos processado;68;2;20;0;20 eh menos processado que 68;True;14;1.72294
+0;leonardo;1;2;1;25-10-2017 15:06:48;Escolha o alimento menos processado;45;0;36;1;45 eh menos processado que 36;True;21;2.087408
+0;leonardo;1;2;1;25-10-2017 15:06:51;Escolha o alimento menos processado;64;1;17;0;17 eh menos processado que 64;False;18;2.137115
+0;leonardo;1;2;1;25-10-2017 15:06:57;Escolha o alimento mais processado;40;0;4;2;4 eh mais processado que 40;True;25;3.213943
+0;leonardo;1;2;1;25-10-2017 15:06:59;Escolha o alimento mais processado;76;2;16;0;76 eh mais processado que 16;True;32;1.491888
+0;leonardo;1;2;1;25-10-2017 15:07:01;Escolha o alimento mais processado;44;0;71;2;71 eh mais processado que 44;True;39;1.625048
+0;leonardo;1;2;1;25-10-2017 15:07:04;Escolha o alimento mais processado;67;2;21;1;67 eh mais processado que 21;True;46;2.138147
+0;leonardo;1;2;1;25-10-2017 15:07:07;Escolha o alimento mais processado;59;2;15;0;59 eh mais processado que 15;True;53;1.458216
+0;leonardo;1;2;1;25-10-2017 15:07:10;Escolha o alimento mais processado;46;2;50;0;46 eh mais processado que 50;True;60;1.507572
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;leonardo;1;2;1;25-10-2017 15:41:51;Escolha o alimento mais processado;25;1;58;0;25 eh mais processado que 58;True;7;4.02928
+0;leonardo;1;2;1;25-10-2017 15:41:55;Escolha o alimento mais processado;41;0;46;2;46 eh mais processado que 41;True;14;2.800329
+0;leonardo;1;2;1;25-10-2017 15:41:58;Escolha o alimento mais processado;8;2;34;0;8 eh mais processado que 34;True;21;1.839052
+0;leonardo;1;2;1;25-10-2017 15:42:01;Escolha o alimento menos processado;3;2;5;0;5 eh menos processado que 3;False;18;1.375036
+0;leonardo;1;2;1;25-10-2017 15:42:05;Escolha o alimento mais processado;23;2;7;0;23 eh mais processado que 7;True;25;1.209383
+0;leonardo;1;2;1;25-10-2017 15:42:08;Escolha o alimento mais processado;56;2;52;0;56 eh mais processado que 52;True;32;1.259989
+0;leonardo;1;2;1;25-10-2017 15:42:10;Escolha o alimento menos processado;54;2;22;0;22 eh menos processado que 54;True;39;1.277302
+0;leonardo;1;2;1;25-10-2017 15:42:13;Escolha o alimento menos processado;66;2;69;0;69 eh menos processado que 66;True;46;2.073154
+0;leonardo;1;2;1;25-10-2017 15:42:15;Escolha o alimento menos processado;1;0;76;2;1 eh menos processado que 76;True;53;1.209373
+0;leonardo;1;2;1;25-10-2017 15:42:18;Escolha o alimento mais processado;13;2;61;0;13 eh mais processado que 61;True;60;1.824055
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;25-10-2017 16:57:22;Escolha o alimento menos processado;57;2;5;0;5 eh menos processado que 57;True;7;10.78124
+0;Salvador;1;2;1;25-10-2017 16:57:24;Escolha o alimento mais processado;50;0;46;2;46 eh mais processado que 50;True;14;1.046141
+0;Salvador;1;2;1;25-10-2017 16:57:25;Escolha o alimento mais processado;70;0;10;2;10 eh mais processado que 70;True;21;1.358879
+0;Salvador;1;2;1;25-10-2017 16:57:28;Escolha o alimento mais processado;66;2;22;0;66 eh mais processado que 22;True;28;1.657001
+0;Salvador;1;2;1;25-10-2017 16:57:29;Escolha o alimento menos processado;60;0;38;1;60 eh menos processado que 38;True;35;1.310352
+0;Salvador;1;2;1;25-10-2017 16:57:31;Escolha o alimento menos processado;26;2;37;0;37 eh menos processado que 26;True;42;1.359051
+0;Salvador;1;2;1;25-10-2017 16:57:33;Escolha o alimento mais processado;43;1;12;2;12 eh mais processado que 43;True;49;1.060495
+0;Salvador;1;2;1;25-10-2017 16:57:34;Escolha o alimento menos processado;65;2;80;0;80 eh menos processado que 65;True;56;1.360252
+0;Salvador;1;2;1;25-10-2017 16:57:37;Escolha o alimento mais processado;77;2;19;0;77 eh mais processado que 19;True;63;1.245705
+0;Salvador;1;2;1;25-10-2017 16:57:38;Escolha o alimento menos processado;73;2;64;1;64 eh menos processado que 73;True;70;1.061544
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:16:35;Escolha o alimento mais processado;71;2;38;1;71 eh mais processado que 38;True;7;2.330936
+0;Salvador;1;2;1;07-11-2017 17:16:36;Escolha o alimento mais processado;45;0;79;2;79 eh mais processado que 45;True;14;1.242529
+0;Salvador;1;2;1;07-11-2017 17:16:38;Escolha o alimento mais processado;19;0;43;1;43 eh mais processado que 19;True;21;1.209404
+0;Salvador;1;2;1;07-11-2017 17:16:39;Escolha o alimento menos processado;5;0;49;2;5 eh menos processado que 49;True;28;1.076864
+0;Salvador;1;2;1;07-11-2017 17:16:40;Escolha o alimento mais processado;68;2;30;0;68 eh mais processado que 30;True;35;1.143127
+0;Salvador;1;2;1;07-11-2017 17:16:42;Escolha o alimento mais processado;20;0;72;2;72 eh mais processado que 20;True;42;1.209387
+0;Salvador;1;2;1;07-11-2017 17:16:43;Escolha o alimento menos processado;34;0;65;2;34 eh menos processado que 65;True;49;1.060299
+0;Salvador;1;2;1;07-11-2017 17:16:45;Escolha o alimento menos processado;73;2;63;0;63 eh menos processado que 73;True;56;1.938349
+0;Salvador;1;2;1;07-11-2017 17:16:47;Escolha o alimento mais processado;74;0;78;1;78 eh mais processado que 74;False;53;1.441341
+0;Salvador;1;2;1;07-11-2017 17:16:49;Escolha o alimento menos processado;67;2;28;0;28 eh menos processado que 67;True;60;0.9940338
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:17:54;Escolha o alimento menos processado;74;0;71;2;74 eh menos processado que 71;True;7;2.946173
+0;Salvador;1;2;1;07-11-2017 17:17:56;Escolha o alimento menos processado;78;1;69;0;69 eh menos processado que 78;False;4;1.325367
+0;Salvador;1;2;1;07-11-2017 17:17:57;Escolha o alimento menos processado;28;0;55;2;28 eh menos processado que 55;True;11;1.325369
+0;Salvador;1;2;1;07-11-2017 17:17:59;Escolha o alimento menos processado;25;1;5;0;5 eh menos processado que 25;True;18;1.192837
+0;Salvador;1;2;1;07-11-2017 17:18:00;Escolha o alimento mais processado;36;1;58;0;36 eh mais processado que 58;False;15;1.027159
+0;Salvador;1;2;1;07-11-2017 17:18:01;Escolha o alimento mais processado;23;2;48;0;23 eh mais processado que 48;True;22;1.060299
+0;Salvador;1;2;1;07-11-2017 17:18:03;Escolha o alimento mais processado;18;0;59;2;59 eh mais processado que 18;True;29;1.391642
+0;Salvador;1;2;1;07-11-2017 17:18:05;Escolha o alimento menos processado;21;1;65;2;21 eh menos processado que 65;True;36;1.72298
+0;Salvador;1;2;1;07-11-2017 17:18:07;Escolha o alimento mais processado;6;0;75;2;75 eh mais processado que 6;True;43;1.558823
+0;Salvador;1;2;1;07-11-2017 17:18:08;Escolha o alimento mais processado;49;2;24;0;49 eh mais processado que 24;True;50;1.177284
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:19:02;Escolha o alimento menos processado;39;0;77;2;39 eh menos processado que 77;True;7;2.000227
+0;Salvador;1;2;1;07-11-2017 17:19:03;Escolha o alimento mais processado;40;0;21;1;21 eh mais processado que 40;True;14;1.176266
+0;Salvador;1;2;1;07-11-2017 17:19:04;Escolha o alimento mais processado;60;0;8;2;8 eh mais processado que 60;True;21;0.91119
+0;Salvador;1;2;1;07-11-2017 17:19:05;Escolha o alimento mais processado;41;0;43;1;43 eh mais processado que 41;True;28;0.9277592
+0;Salvador;1;2;1;07-11-2017 17:19:06;Escolha o alimento mais processado;55;2;31;0;55 eh mais processado que 31;False;25;0.8283596
+0;Salvador;1;2;1;07-11-2017 17:19:07;Escolha o alimento menos processado;27;0;79;2;27 eh menos processado que 79;True;32;1.010597
+0;Salvador;1;2;1;07-11-2017 17:19:08;Escolha o alimento menos processado;56;2;61;0;61 eh menos processado que 56;True;39;1.043728
+0;Salvador;1;2;1;07-11-2017 17:19:09;Escolha o alimento mais processado;17;0;62;2;62 eh mais processado que 17;True;46;1.060291
+0;Salvador;1;2;1;07-11-2017 17:19:11;Escolha o alimento menos processado;51;2;35;0;35 eh menos processado que 51;False;43;1.192837
+0;Salvador;1;2;1;07-11-2017 17:19:12;Escolha o alimento menos processado;32;1;71;2;32 eh menos processado que 71;True;50;1.109997
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:21:30;Escolha o alimento menos processado;2;0;77;2;2 eh menos processado que 77;True;7;2.203136
+0;Salvador;1;2;1;07-11-2017 17:21:31;Escolha o alimento menos processado;57;2;17;0;17 eh menos processado que 57;True;14;0.9774532
+0;Salvador;1;2;1;07-11-2017 17:21:32;Escolha o alimento mais processado;3;2;15;0;3 eh mais processado que 15;True;21;0.7620907
+0;Salvador;1;2;1;07-11-2017 17:21:33;Escolha o alimento menos processado;40;0;55;2;40 eh menos processado que 55;True;28;1.391638
+0;Salvador;1;2;1;07-11-2017 17:21:35;Escolha o alimento mais processado;75;2;6;0;75 eh mais processado que 6;True;35;1.971489
+0;Salvador;1;2;1;07-11-2017 17:21:37;Escolha o alimento mais processado;63;0;21;1;21 eh mais processado que 63;False;32;1.259085
+0;Salvador;1;2;1;07-11-2017 17:21:40;Escolha o alimento menos processado;4;2;7;0;7 eh menos processado que 4;True;39;1.971489
+0;Salvador;1;2;1;07-11-2017 17:21:41;Escolha o alimento menos processado;46;2;78;1;78 eh menos processado que 46;True;46;1.010592
+0;Salvador;1;2;1;07-11-2017 17:21:42;Escolha o alimento mais processado;41;0;68;2;68 eh mais processado que 41;True;53;1.176254
+0;Salvador;1;2;1;07-11-2017 17:21:44;Escolha o alimento mais processado;26;2;35;0;26 eh mais processado que 35;True;60;1.673283
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:23:19;Escolha o alimento mais processado;59;2;48;0;59 eh mais processado que 48;True;7;2.317007
+0;Salvador;1;2;1;07-11-2017 17:23:20;Escolha o alimento mais processado;55;2;52;0;55 eh mais processado que 52;False;4;1.21203
+0;Salvador;1;2;1;07-11-2017 17:23:22;Escolha o alimento menos processado;20;0;65;2;20 eh menos processado que 65;True;11;1.064608
+0;Salvador;1;2;1;07-11-2017 17:23:23;Escolha o alimento menos processado;19;0;43;1;19 eh menos processado que 43;True;18;1.06592
+0;Salvador;1;2;1;07-11-2017 17:23:24;Escolha o alimento menos processado;79;2;24;0;24 eh menos processado que 79;True;25;1.064291
+0;Salvador;1;2;1;07-11-2017 17:23:26;Escolha o alimento mais processado;64;1;13;2;13 eh mais processado que 64;True;32;1.313393
+0;Salvador;1;2;1;07-11-2017 17:23:27;Escolha o alimento menos processado;1;0;56;2;1 eh menos processado que 56;True;39;1.598669
+0;Salvador;1;2;1;07-11-2017 17:23:30;Escolha o alimento mais processado;54;2;6;0;54 eh mais processado que 6;True;46;1.878166
+0;Salvador;1;2;1;07-11-2017 17:23:32;Escolha o alimento menos processado;23;2;25;1;25 eh menos processado que 23;True;53;2.045424
+0;Salvador;1;2;1;07-11-2017 17:23:33;Escolha o alimento mais processado;40;0;57;2;57 eh mais processado que 40;True;60;1.094687
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:26:21;Escolha o alimento mais processado;44;0;76;2;76 eh mais processado que 44;True;7;2.670589
+0;Salvador;1;2;1;07-11-2017 17:26:23;Escolha o alimento menos processado;46;2;37;0;37 eh menos processado que 46;True;14;1.576241
+0;Salvador;1;2;1;07-11-2017 17:26:24;Escolha o alimento mais processado;4;2;31;0;4 eh mais processado que 31;True;21;1.064526
+0;Salvador;1;2;1;07-11-2017 17:26:25;Escolha o alimento menos processado;74;0;73;2;74 eh menos processado que 73;True;28;1.196278
+0;Salvador;1;2;1;07-11-2017 17:26:27;Escolha o alimento menos processado;75;2;29;0;29 eh menos processado que 75;True;35;1.413528
+0;Salvador;1;2;1;07-11-2017 17:26:29;Escolha o alimento menos processado;55;2;32;1;32 eh menos processado que 55;True;42;1.251196
+0;Salvador;1;2;1;07-11-2017 17:26:30;Escolha o alimento mais processado;3;2;7;0;3 eh mais processado que 7;True;49;0.9171104
+0;Salvador;1;2;1;07-11-2017 17:26:37;Escolha o alimento mais processado;65;2;20;0;65 eh mais processado que 20;True;56;6.865278
+0;Salvador;1;2;1;07-11-2017 17:26:39;Escolha o alimento menos processado;66;2;2;0;2 eh menos processado que 66;True;63;1.601482
+0;Salvador;1;2;1;07-11-2017 17:26:42;Escolha o alimento mais processado;33;0;49;2;49 eh mais processado que 33;True;70;2.443069
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:27:57;Escolha o alimento mais processado;21;1;30;0;21 eh mais processado que 30;True;7;2.150845
+0;Salvador;1;2;1;07-11-2017 17:27:59;Escolha o alimento menos processado;10;2;25;1;25 eh menos processado que 10;True;14;1.165592
+0;Salvador;1;2;1;07-11-2017 17:28:00;Escolha o alimento menos processado;32;1;74;0;74 eh menos processado que 32;True;21;1.611631
+0;Salvador;1;2;1;07-11-2017 17:28:02;Escolha o alimento menos processado;71;2;45;0;45 eh menos processado que 71;True;28;1.031492
+0;Salvador;1;2;1;07-11-2017 17:28:03;Escolha o alimento menos processado;75;2;1;0;1 eh menos processado que 75;True;35;1.049767
+0;Salvador;1;2;1;07-11-2017 17:28:04;Escolha o alimento menos processado;65;2;33;0;33 eh menos processado que 65;True;42;1.415934
+0;Salvador;1;2;1;07-11-2017 17:28:05;Escolha o alimento mais processado;22;0;54;2;54 eh mais processado que 22;True;49;0.9181709
+0;Salvador;1;2;1;07-11-2017 17:28:07;Escolha o alimento mais processado;55;2;64;1;55 eh mais processado que 64;False;46;1.135319
+0;Salvador;1;2;1;07-11-2017 17:28:08;Escolha o alimento mais processado;11;2;63;0;11 eh mais processado que 63;False;43;1.12249
+0;Salvador;1;2;1;07-11-2017 17:28:10;Escolha o alimento mais processado;79;2;43;1;79 eh mais processado que 43;False;40;1.071394
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:28:37;Escolha o alimento mais processado;71;2;63;0;71 eh mais processado que 63;True;7;4.652298
+0;Salvador;1;2;1;07-11-2017 17:28:39;Escolha o alimento mais processado;8;2;78;1;8 eh mais processado que 78;True;14;0.9986534
+0;Salvador;1;2;1;07-11-2017 17:28:42;Escolha o alimento mais processado;59;2;48;0;59 eh mais processado que 48;True;21;2.473431
+0;Salvador;1;2;1;07-11-2017 17:28:43;Escolha o alimento menos processado;66;2;44;0;44 eh menos processado que 66;True;28;1.330385
+0;Salvador;1;2;1;07-11-2017 17:28:45;Escolha o alimento mais processado;47;0;56;2;56 eh mais processado que 47;True;35;1.546545
+0;Salvador;1;2;1;07-11-2017 17:28:46;Escolha o alimento mais processado;55;2;52;0;55 eh mais processado que 52;True;42;1.101898
+0;Salvador;1;2;1;07-11-2017 17:28:48;Escolha o alimento mais processado;4;2;21;1;4 eh mais processado que 21;True;49;1.416946
+0;Salvador;1;2;1;07-11-2017 17:28:50;Escolha o alimento mais processado;32;1;41;0;32 eh mais processado que 41;True;56;1.762409
+0;Salvador;1;2;1;07-11-2017 17:28:52;Escolha o alimento menos processado;50;0;46;2;50 eh menos processado que 46;True;63;1.878895
+0;Salvador;1;2;1;07-11-2017 17:28:54;Escolha o alimento menos processado;61;0;72;2;61 eh menos processado que 72;True;70;1.686987
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:29:39;Escolha o alimento menos processado;41;0;26;2;41 eh menos processado que 26;True;7;3.638594
+0;Salvador;1;2;1;07-11-2017 17:29:41;Escolha o alimento menos processado;23;2;14;0;14 eh menos processado que 23;True;14;1.162104
+0;Salvador;1;2;1;07-11-2017 17:29:42;Escolha o alimento mais processado;1;0;65;2;65 eh mais processado que 1;True;21;1.543743
+0;Salvador;1;2;1;07-11-2017 17:29:44;Escolha o alimento menos processado;17;0;56;2;17 eh menos processado que 56;True;28;1.146666
+0;Salvador;1;2;1;07-11-2017 17:29:45;Escolha o alimento menos processado;66;2;18;0;18 eh menos processado que 66;True;35;1.330154
+0;Salvador;1;2;1;07-11-2017 17:29:47;Escolha o alimento menos processado;79;2;78;1;78 eh menos processado que 79;True;42;1.784426
+0;Salvador;1;2;1;07-11-2017 17:29:49;Escolha o alimento mais processado;61;0;10;2;10 eh mais processado que 61;True;49;1.597511
+0;Salvador;1;2;1;07-11-2017 17:29:50;Escolha o alimento mais processado;64;1;55;2;55 eh mais processado que 64;False;46;0.8510532
+0;Salvador;1;2;1;07-11-2017 17:29:50;Escolha o alimento mais processado;47;0;62;2;62 eh mais processado que 47;True;53;0.01656723
+0;Salvador;1;2;1;07-11-2017 17:29:50;Escolha o alimento mais processado;37;0;3;2;3 eh mais processado que 37;True;60;0.06343651
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:30:00;Escolha o alimento menos processado;43;1;68;2;43 eh menos processado que 68;False;-3;1.311592
+0;Salvador;1;2;1;07-11-2017 17:30:00;Escolha o alimento menos processado;65;2;47;0;47 eh menos processado que 65;False;-6;0.08283615
+0;Salvador;1;2;1;07-11-2017 17:30:01;Escolha o alimento menos processado;14;0;54;2;14 eh menos processado que 54;True;1;0.01656723
+0;Salvador;1;2;1;07-11-2017 17:30:01;Escolha o alimento menos processado;30;0;8;2;30 eh menos processado que 8;True;8;0.0729866
+0;Salvador;1;2;1;07-11-2017 17:30:01;Escolha o alimento mais processado;12;2;28;0;12 eh mais processado que 28;True;15;0.08283615
+0;Salvador;1;2;1;07-11-2017 17:30:02;Escolha o alimento menos processado;76;2;74;0;74 eh menos processado que 76;True;22;0.06626701
+0;Salvador;1;2;1;07-11-2017 17:30:02;Escolha o alimento mais processado;32;1;77;2;77 eh mais processado que 32;True;29;0.1406364
+0;Salvador;1;2;1;07-11-2017 17:30:02;Escolha o alimento mais processado;58;0;79;2;79 eh mais processado que 58;False;26;0.08657074
+0;Salvador;1;2;1;07-11-2017 17:30:02;Escolha o alimento mais processado;52;0;46;2;46 eh mais processado que 52;True;33;0.03313446
+0;Salvador;1;2;1;07-11-2017 17:30:03;Escolha o alimento mais processado;24;0;26;2;26 eh mais processado que 24;True;40;0.08283424
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:30:12;Escolha o alimento menos processado;66;2;35;0;35 eh menos processado que 66;True;7;1.220579
+0;Salvador;1;2;1;07-11-2017 17:30:12;Escolha o alimento menos processado;79;2;63;0;63 eh menos processado que 79;True;14;0.0353241
+0;Salvador;1;2;1;07-11-2017 17:30:12;Escolha o alimento menos processado;31;0;38;1;31 eh menos processado que 38;True;21;0.090168
+0;Salvador;1;2;1;07-11-2017 17:30:12;Escolha o alimento menos processado;54;2;45;0;45 eh menos processado que 54;True;28;0.01656723
+0;Salvador;1;2;1;07-11-2017 17:30:13;Escolha o alimento mais processado;26;2;25;1;26 eh mais processado que 25;False;25;0.03313446
+0;Salvador;1;2;1;07-11-2017 17:30:13;Escolha o alimento mais processado;4;2;27;0;4 eh mais processado que 27;False;22;0.06626892
+0;Salvador;1;2;1;07-11-2017 17:30:13;Escolha o alimento mais processado;22;0;49;2;49 eh mais processado que 22;True;29;0.075243
+0;Salvador;1;2;1;07-11-2017 17:30:13;Escolha o alimento mais processado;44;0;55;2;55 eh mais processado que 44;True;36;0.1060333
+0;Salvador;1;2;1;07-11-2017 17:30:14;Escolha o alimento mais processado;9;0;13;2;13 eh mais processado que 9;False;33;0.01656723
+0;Salvador;1;2;1;07-11-2017 17:30:14;Escolha o alimento mais processado;43;1;59;2;59 eh mais processado que 43;True;40;0.1267757
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:30:20;Escolha o alimento mais processado;76;2;61;0;76 eh mais processado que 61;True;7;0.5111122
+0;Salvador;1;2;1;07-11-2017 17:30:21;Escolha o alimento mais processado;31;0;57;2;57 eh mais processado que 31;False;4;0.0724659
+0;Salvador;1;2;1;07-11-2017 17:30:21;Escolha o alimento menos processado;67;2;78;1;78 eh menos processado que 67;False;1;0.02529716
+0;Salvador;1;2;1;07-11-2017 17:30:21;Escolha o alimento menos processado;52;0;26;2;52 eh menos processado que 26;True;8;0.1021805
+0;Salvador;1;2;1;07-11-2017 17:30:21;Escolha o alimento mais processado;13;2;25;1;13 eh mais processado que 25;True;15;0.09940338
+0;Salvador;1;2;1;07-11-2017 17:30:22;Escolha o alimento menos processado;60;0;79;2;60 eh menos processado que 79;True;22;0.06626892
+0;Salvador;1;2;1;07-11-2017 17:30:22;Escolha o alimento mais processado;21;1;59;2;59 eh mais processado que 21;False;19;0.09171486
+0;Salvador;1;2;1;07-11-2017 17:30:22;Escolha o alimento mais processado;27;0;65;2;65 eh mais processado que 27;False;16;0.0741024
+0;Salvador;1;2;1;07-11-2017 17:30:22;Escolha o alimento menos processado;53;0;3;2;53 eh menos processado que 3;True;23;0.07475853
+0;Salvador;1;2;1;07-11-2017 17:30:23;Escolha o alimento mais processado;23;2;9;0;23 eh mais processado que 9;True;30;0.1065464
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;07-11-2017 17:50:50;Escolha o alimento menos processado;72;2;15;0;15 eh menos processado que 72;True;7;3.269632
+0;Salvador;1;2;1;07-11-2017 17:50:51;Escolha o alimento menos processado;23;2;30;0;30 eh menos processado que 23;True;14;1.060303
+0;Salvador;1;2;1;07-11-2017 17:50:52;Escolha o alimento mais processado;51;2;69;0;51 eh mais processado que 69;False;11;0.9608955
+0;Salvador;1;2;1;07-11-2017 17:50:53;Escolha o alimento menos processado;50;0;49;2;50 eh menos processado que 49;False;8;0.7289543
+0;Salvador;1;2;1;07-11-2017 17:50:53;Escolha o alimento menos processado;25;1;76;2;25 eh menos processado que 76;False;5;0.04970169
+0;Salvador;1;2;1;07-11-2017 17:50:54;Escolha o alimento menos processado;2;0;67;2;2 eh menos processado que 67;False;2;0.01656723
+0;Salvador;1;2;1;07-11-2017 17:50:54;Escolha o alimento mais processado;65;2;63;0;65 eh mais processado que 63;False;-1;0.04970169
+0;Salvador;1;2;1;07-11-2017 17:50:54;Escolha o alimento mais processado;77;2;20;0;77 eh mais processado que 20;False;-4;0.06626892
+0;Salvador;1;2;1;07-11-2017 17:50:54;Escolha o alimento mais processado;60;0;12;2;12 eh mais processado que 60;True;3;0.09940338
+0;Salvador;1;2;1;07-11-2017 17:50:54;Escolha o alimento mais processado;1;0;13;2;13 eh mais processado que 1;True;10;0.1325378
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;08-11-2017 16:50:13;Escolha o alimento menos processado;82;1;79;0;79 eh menos processado que 82;True;7;5.575979
+0;Salvador;1;2;1;08-11-2017 16:50:21;Escolha o alimento menos processado;112;2;100;0;100 eh menos processado que 112;False;4;5.617077
+0;Salvador;1;2;1;08-11-2017 16:51:16;Escolha o alimento menos processado;133;0;103;2;133 eh menos processado que 103;True;11;9.21755
+0;Salvador;1;2;1;08-11-2017 16:51:23;Escolha o alimento menos processado;36;0;93;2;36 eh menos processado que 93;True;18;4.959236
+0;Salvador;1;2;1;08-11-2017 16:51:28;Escolha o alimento menos processado;62;1;66;2;62 eh menos processado que 66;True;25;3.964758
+0;Salvador;1;2;1;08-11-2017 16:51:39;Escolha o alimento mais processado;76;0;54;1;54 eh mais processado que 76;True;32;9.81852
+0;Salvador;1;2;1;08-11-2017 16:52:10;Escolha o alimento mais processado;122;2;92;0;122 eh mais processado que 92;False;27;30
+0;Salvador;1;2;1;08-11-2017 16:52:21;Escolha o alimento mais processado;111;2;29;0;111 eh mais processado que 29;True;34;6.022118
+0;Salvador;1;2;1;08-11-2017 16:52:24;Escolha o alimento mais processado;19;0;98;2;98 eh mais processado que 19;True;41;2.392433
+0;Salvador;1;2;1;08-11-2017 16:52:33;Escolha o alimento menos processado;65;1;124;2;65 eh menos processado que 124;True;48;6.690756
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;08-11-2017 17:31:21;Escolha o alimento menos processado;24;0;130;2;24 eh menos processado que 130;True;7;2.956926
+0;Salvador;1;2;1;08-11-2017 17:31:25;Escolha o alimento menos processado;74;1;97;2;74 eh menos processado que 97;True;14;3.116287
+0;Salvador;1;2;1;08-11-2017 17:31:28;Escolha o alimento mais processado;118;2;43;0;118 eh mais processado que 43;True;21;2.487877
+0;Salvador;1;2;1;08-11-2017 17:31:30;Escolha o alimento menos processado;37;1;79;0;79 eh menos processado que 37;False;18;1.545101
+0;Salvador;1;2;1;08-11-2017 17:31:35;Escolha o alimento menos processado;31;0;89;2;31 eh menos processado que 89;False;15;3.515385
+0;Salvador;1;2;1;08-11-2017 17:31:38;Escolha o alimento mais processado;19;0;96;2;96 eh mais processado que 19;True;22;1.840857
+0;Salvador;1;2;1;08-11-2017 17:31:41;Escolha o alimento menos processado;62;1;75;2;62 eh menos processado que 75;True;29;2.441534
+0;Salvador;1;2;1;08-11-2017 17:31:44;Escolha o alimento menos processado;87;0;66;2;87 eh menos processado que 66;True;36;2.888117
+0;Salvador;1;2;1;08-11-2017 17:31:50;Escolha o alimento mais processado;126;2;13;1;126 eh mais processado que 13;True;43;5.209492
+0;Salvador;1;2;1;08-11-2017 17:31:54;Escolha o alimento mais processado;116;2;85;0;116 eh mais processado que 85;True;50;3.139231
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;08-11-2017 17:53:09;Escolha o alimento mais processado;78;2;1;0;78 eh mais processado que 1;True;7;4.333088
+0;Salvador;1;2;1;08-11-2017 17:53:12;Escolha o alimento menos processado;115;2;27;0;27 eh menos processado que 115;True;14;2.933577
+0;Salvador;1;2;1;08-11-2017 17:53:17;Escolha o alimento mais processado;74;1;6;2;6 eh mais processado que 74;True;21;4.241205
+0;Salvador;1;2;1;08-11-2017 17:53:19;Escolha o alimento mais processado;28;0;131;2;131 eh mais processado que 28;True;28;0.7455215
+0;Salvador;1;2;1;08-11-2017 17:53:20;Escolha o alimento menos processado;118;2;42;0;42 eh menos processado que 118;False;25;0.215374
+0;Salvador;1;2;1;08-11-2017 17:53:20;Escolha o alimento menos processado;129;0;114;2;129 eh menos processado que 114;False;22;0.1988068
+0;Salvador;1;2;1;08-11-2017 17:53:21;Escolha o alimento mais processado;119;2;30;0;119 eh mais processado que 30;True;29;0.1656704
+0;Salvador;1;2;1;08-11-2017 17:53:21;Escolha o alimento menos processado;40;0;99;2;40 eh menos processado que 99;False;26;0.1988068
+0;Salvador;1;2;1;08-11-2017 17:53:22;Escolha o alimento mais processado;123;2;21;0;123 eh mais processado que 21;True;33;0.1988068
+0;Salvador;1;2;1;08-11-2017 17:53:22;Escolha o alimento mais processado;48;0;15;2;15 eh mais processado que 48;True;40;0.2319412
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;08-11-2017 17:54:54;Escolha o alimento mais processado;38;2;77;0;38 eh mais processado que 77;True;7;5.456085
+0;Salvador;1;2;1;08-11-2017 17:54:54;Escolha o alimento menos processado;118;2;16;0;16 eh menos processado que 118;True;14;0.2485085
+0;Salvador;1;2;1;08-11-2017 17:54:55;Escolha o alimento mais processado;35;1;81;0;35 eh mais processado que 81;True;21;0.1325378
+0;Salvador;1;2;1;08-11-2017 17:54:55;Escolha o alimento menos processado;91;1;46;2;91 eh menos processado que 46;False;18;0.1656723
+0;Salvador;1;2;1;08-11-2017 17:54:55;Escolha o alimento menos processado;52;1;53;0;53 eh menos processado que 52;False;15;0.1822395
+0;Salvador;1;2;1;08-11-2017 17:54:56;Escolha o alimento menos processado;115;2;129;0;129 eh menos processado que 115;True;22;0.1988068
+0;Salvador;1;2;1;08-11-2017 17:54:56;Escolha o alimento menos processado;48;0;122;2;48 eh menos processado que 122;True;29;0.2650757
+0;Salvador;1;2;1;08-11-2017 17:54:57;Escolha o alimento mais processado;93;2;32;0;93 eh mais processado que 32;False;26;0.1988068
+0;Salvador;1;2;1;08-11-2017 17:54:57;Escolha o alimento mais processado;26;2;67;1;26 eh mais processado que 67;True;33;0.2319412
+0;Salvador;1;2;1;08-11-2017 17:54:58;Escolha o alimento mais processado;47;1;92;0;47 eh mais processado que 92;False;30;0.215374
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;08-11-2017 18:14:40;Escolha o alimento menos processado;6;2;58;0;58 eh menos processado que 6;True;7;1.883825
+0;Salvador;1;2;1;08-11-2017 18:14:40;Escolha o alimento mais processado;70;0;67;1;67 eh mais processado que 70;False;4;0.1159706
+0;Salvador;1;2;1;08-11-2017 18:14:41;Escolha o alimento menos processado;32;0;123;2;32 eh menos processado que 123;False;1;0.1491032
+0;Salvador;1;2;1;08-11-2017 18:14:41;Escolha o alimento mais processado;71;1;48;0;71 eh mais processado que 48;True;8;0.1656723
+0;Salvador;1;2;1;08-11-2017 18:14:41;Escolha o alimento menos processado;7;2;18;0;18 eh menos processado que 7;False;5;0.1658592
+0;Salvador;1;2;1;08-11-2017 18:14:42;Escolha o alimento mais processado;127;0;119;2;119 eh mais processado que 127;True;12;0.03313446
+0;Salvador;1;2;1;08-11-2017 18:14:42;Escolha o alimento menos processado;13;1;103;2;13 eh menos processado que 103;False;9;0.1159668
+0;Salvador;1;2;1;08-11-2017 18:14:42;Escolha o alimento mais processado;4;2;2;0;4 eh mais processado que 2;False;6;0.03313446
+0;Salvador;1;2;1;08-11-2017 18:14:42;Escolha o alimento menos processado;39;0;62;1;39 eh menos processado que 62;False;3;0.01656532
+0;Salvador;1;2;1;08-11-2017 18:14:42;Escolha o alimento mais processado;75;2;37;1;75 eh mais processado que 37;False;0;0.08283424
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;08-11-2017 18:15:45;Escolha o alimento menos processado;25;0;116;2;25 eh menos processado que 116;False;-3;1.88027
+0;Salvador;1;2;1;08-11-2017 18:15:45;Escolha o alimento mais processado;117;0;4;2;4 eh mais processado que 117;False;-6;0.1325378
+0;Salvador;1;2;1;08-11-2017 18:15:45;Escolha o alimento mais processado;113;2;35;1;113 eh mais processado que 35;False;-9;0.09940338
+0;Salvador;1;2;1;08-11-2017 18:15:46;Escolha o alimento mais processado;66;2;65;1;66 eh mais processado que 65;False;-12;0.1501865
+0;Salvador;1;2;1;08-11-2017 18:15:46;Escolha o alimento mais processado;121;2;48;0;121 eh mais processado que 48;True;-5;0.03313446
+0;Salvador;1;2;1;08-11-2017 18:15:46;Escolha o alimento mais processado;112;2;73;1;112 eh mais processado que 73;False;-8;0.01656342
+0;Salvador;1;2;1;08-11-2017 18:15:46;Escolha o alimento menos processado;13;1;109;0;109 eh menos processado que 13;True;-1;0.01656723
+0;Salvador;1;2;1;08-11-2017 18:15:46;Escolha o alimento menos processado;5;2;1;0;1 eh menos processado que 5;True;6;0.04970169
+0;Salvador;1;2;1;08-11-2017 18:15:47;Escolha o alimento mais processado;59;0;45;2;45 eh mais processado que 59;True;13;0.04970169
+0;Salvador;1;2;1;08-11-2017 18:15:47;Escolha o alimento menos processado;54;1;107;2;54 eh menos processado que 107;False;10;0.04970169
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;08-11-2017 18:17:02;Escolha o alimento mais processado;83;2;11;1;83 eh mais processado que 11;True;7;10.98248
+0;Salvador;1;2;1;08-11-2017 18:17:02;Escolha o alimento mais processado;67;1;76;0;67 eh mais processado que 76;False;4;0.09940338
+0;Salvador;1;2;1;08-11-2017 18:17:02;Escolha o alimento mais processado;79;0;37;1;37 eh mais processado que 79;False;1;0.06626892
+0;Salvador;1;2;1;08-11-2017 18:17:02;Escolha o alimento menos processado;75;2;132;0;132 eh menos processado que 75;True;8;0.04970169
+0;Salvador;1;2;1;08-11-2017 18:17:03;Escolha o alimento mais processado;10;2;34;1;10 eh mais processado que 34;False;5;0.1325359
+0;Salvador;1;2;1;08-11-2017 18:17:03;Escolha o alimento mais processado;29;0;38;2;38 eh mais processado que 29;True;12;0.1656685
+0;Salvador;1;2;1;08-11-2017 18:17:03;Escolha o alimento menos processado;110;1;121;2;110 eh menos processado que 121;True;19;0.01656723
+0;Salvador;1;2;1;08-11-2017 18:17:04;Escolha o alimento menos processado;47;1;31;0;31 eh menos processado que 47;True;26;0.03313255
+0;Salvador;1;2;1;08-11-2017 18:17:04;Escolha o alimento menos processado;77;0;103;2;77 eh menos processado que 103;False;23;0.06626892
+0;Salvador;1;2;1;08-11-2017 18:17:04;Escolha o alimento mais processado;117;0;95;2;95 eh mais processado que 117;True;30;0.1491032
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;08-11-2017 18:25:44;Escolha o alimento menos processado;26;2;71;1;71 eh menos processado que 26;False;-3;1.504152
+0;Salvador;1;2;1;08-11-2017 18:25:44;Escolha o alimento mais processado;123;2;47;1;123 eh mais processado que 47;False;-6;0.09940338
+0;Salvador;1;2;1;08-11-2017 18:25:44;Escolha o alimento mais processado;105;0;37;1;37 eh mais processado que 105;False;-9;0.08283615
+0;Salvador;1;2;1;08-11-2017 18:25:44;Escolha o alimento menos processado;18;0;103;2;18 eh menos processado que 103;False;-12;0.08284378
+0;Salvador;1;2;1;08-11-2017 18:25:45;Escolha o alimento mais processado;8;0;94;2;94 eh mais processado que 8;False;-15;0.1159706
+0;Salvador;1;2;1;08-11-2017 18:25:45;Escolha o alimento mais processado;87;0;69;1;69 eh mais processado que 87;True;-8;0.08411598
+0;Salvador;1;2;1;08-11-2017 18:25:45;Escolha o alimento mais processado;6;2;35;1;6 eh mais processado que 35;True;-1;0.1159706
+0;Salvador;1;2;1;08-11-2017 18:25:45;Escolha o alimento menos processado;53;0;9;2;53 eh menos processado que 9;False;-4;0.09940338
+0;Salvador;1;2;1;08-11-2017 18:25:46;Escolha o alimento mais processado;97;2;29;0;97 eh mais processado que 29;True;3;0.1491032
+0;Salvador;1;2;1;08-11-2017 18:25:46;Escolha o alimento mais processado;54;1;49;2;49 eh mais processado que 54;True;10;0.1656723
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;08-11-2017 18:27:30;Escolha o alimento mais processado;28;0;123;2;123 eh mais processado que 28;True;7;2.575027
+0;Salvador;1;2;1;08-11-2017 18:27:30;Escolha o alimento menos processado;4;2;1;0;1 eh menos processado que 4;False;4;0.1491051
+0;Salvador;1;2;1;08-11-2017 18:27:31;Escolha o alimento mais processado;98;2;71;1;98 eh mais processado que 71;False;1;0.1325378
+0;Salvador;1;2;1;08-11-2017 18:27:31;Escolha o alimento mais processado;128;0;88;2;88 eh mais processado que 128;False;-2;0.1491051
+0;Salvador;1;2;1;08-11-2017 18:27:31;Escolha o alimento mais processado;63;0;95;2;95 eh mais processado que 63;True;5;0.1491051
+0;Salvador;1;2;1;08-11-2017 18:27:32;Escolha o alimento mais processado;12;2;79;0;12 eh mais processado que 79;True;12;0.1325378
+0;Salvador;1;2;1;08-11-2017 18:27:32;Escolha o alimento mais processado;60;0;13;1;13 eh mais processado que 60;True;19;0.215374
+0;Salvador;1;2;1;08-11-2017 18:27:33;Escolha o alimento menos processado;65;1;44;0;44 eh menos processado que 65;False;16;0.2982063
+0;Salvador;1;2;1;08-11-2017 18:27:33;Escolha o alimento mais processado;62;1;131;2;131 eh mais processado que 62;True;23;0.3479099
+0;Salvador;1;2;1;08-11-2017 18:27:34;Escolha o alimento mais processado;72;2;25;0;72 eh mais processado que 25;True;30;0.3147755
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;14-11-2017 16:34:15;Escolha o alimento mais processado;38;2;110;1;38 eh mais processado que 110;True;7;2.363819
+0;Salvador;1;2;1;14-11-2017 16:34:15;Escolha o alimento mais processado;37;1;3;2;3 eh mais processado que 37;True;14;0.1325378
+0;Salvador;1;2;1;14-11-2017 16:34:15;Escolha o alimento menos processado;6;2;84;0;84 eh menos processado que 6;False;11;0.08283615
+0;Salvador;1;2;1;14-11-2017 16:34:16;Escolha o alimento menos processado;118;2;41;0;41 eh menos processado que 118;True;18;0.09940338
+0;Salvador;1;2;1;14-11-2017 16:34:16;Escolha o alimento mais processado;66;2;100;0;66 eh mais processado que 100;True;25;0.08283615
+0;Salvador;1;2;1;14-11-2017 16:34:16;Escolha o alimento mais processado;50;0;4;2;4 eh mais processado que 50;True;32;0.08283615
+0;Salvador;1;2;1;14-11-2017 16:34:16;Escolha o alimento menos processado;88;2;64;0;64 eh menos processado que 88;False;29;0.09940147
+0;Salvador;1;2;1;14-11-2017 16:34:17;Escolha o alimento mais processado;98;2;58;0;98 eh mais processado que 58;False;26;0.08283615
+0;Salvador;1;2;1;14-11-2017 16:34:17;Escolha o alimento mais processado;27;0;115;2;115 eh mais processado que 27;False;23;0.1325378
+0;Salvador;1;2;1;14-11-2017 16:34:17;Escolha o alimento mais processado;51;1;80;0;51 eh mais processado que 80;False;20;0.1822395
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;21-11-2017 16:22:31;Escolha o alimento menos processado;42;0;102;2;42 eh menos processado que 102;True;7;2.010265
+0;Salvador;1;2;1;21-11-2017 16:22:36;Escolha o alimento mais processado;121;2;104;1;121 eh mais processado que 104;False;4;4.297052
+0;Salvador;1;2;1;21-11-2017 16:22:36;Escolha o alimento mais processado;46;2;127;0;46 eh mais processado que 127;True;11;0.2864361
+0;Salvador;1;2;1;21-11-2017 16:22:37;Escolha o alimento mais processado;101;2;55;0;101 eh mais processado que 55;False;8;0.1347923
+0;Salvador;1;2;1;21-11-2017 16:22:37;Escolha o alimento mais processado;37;1;3;2;3 eh mais processado que 37;False;5;0.1009827
+0;Salvador;1;2;1;21-11-2017 16:22:37;Escolha o alimento menos processado;34;1;27;0;27 eh menos processado que 34;True;12;0.1347942
+0;Salvador;1;2;1;21-11-2017 16:22:38;Escolha o alimento menos processado;85;0;73;1;85 eh menos processado que 73;True;19;0.08471298
+0;Salvador;1;2;1;21-11-2017 16:22:38;Escolha o alimento menos processado;68;1;116;2;68 eh menos processado que 116;False;16;0.1347923
+0;Salvador;1;2;1;21-11-2017 16:22:38;Escolha o alimento menos processado;91;1;60;0;60 eh menos processado que 91;False;13;0.08489609
+0;Salvador;1;2;1;21-11-2017 16:22:39;Escolha o alimento mais processado;40;0;115;2;115 eh mais processado que 40;True;20;0.1347961
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;21-11-2017 16:22:46;Escolha o alimento mais processado;84;0;114;2;114 eh mais processado que 84;True;7;2.514496
+0;Salvador;1;2;1;21-11-2017 16:22:48;Escolha o alimento menos processado;72;2;81;0;81 eh menos processado que 72;False;4;2.460142
+0;Salvador;1;2;1;21-11-2017 16:22:50;Escolha o alimento mais processado;65;1;87;0;65 eh mais processado que 87;True;11;1.162601
+0;Salvador;1;2;1;21-11-2017 16:22:54;Escolha o alimento mais processado;62;1;4;2;4 eh mais processado que 62;False;8;4.111454
+0;Salvador;1;2;1;21-11-2017 16:22:58;Escolha o alimento mais processado;51;1;94;2;94 eh mais processado que 51;True;15;3.403063
+0;Salvador;1;2;1;21-11-2017 16:23:00;Escolha o alimento menos processado;111;2;48;0;48 eh menos processado que 111;True;22;1.802874
+0;Salvador;1;2;1;21-11-2017 16:23:02;Escolha o alimento menos processado;93;2;76;0;76 eh menos processado que 93;True;29;1.297136
+0;Salvador;1;2;1;21-11-2017 16:23:05;Escolha o alimento menos processado;71;1;118;2;71 eh menos processado que 118;True;36;2.274393
+0;Salvador;1;2;1;21-11-2017 16:23:07;Escolha o alimento menos processado;95;2;24;0;24 eh menos processado que 95;False;33;2.662418
+0;Salvador;1;2;1;21-11-2017 16:23:10;Escolha o alimento mais processado;131;2;23;1;131 eh mais processado que 23;True;40;1.617529
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;21-11-2017 16:47:21;Escolha o alimento menos processado;81;0;82;1;81 eh menos processado que 82;False;-3;4.974548
+0;Salvador;1;2;1;21-11-2017 16:47:22;Escolha o alimento menos processado;103;2;109;0;109 eh menos processado que 103;False;-6;0.06739426
+0;Salvador;1;2;1;21-11-2017 16:47:22;Escolha o alimento menos processado;112;2;17;0;17 eh menos processado que 112;True;1;0.03369522
+0;Salvador;1;2;1;21-11-2017 16:47:22;Escolha o alimento mais processado;116;2;117;0;116 eh mais processado que 117;False;-2;0.1179447
+0;Salvador;1;2;1;21-11-2017 16:47:22;Escolha o alimento mais processado;33;0;99;2;99 eh mais processado que 33;False;-5;0.05049515
+0;Salvador;1;2;1;21-11-2017 16:47:22;Escolha o alimento mais processado;87;0;9;2;9 eh mais processado que 87;True;2;0.03309059
+0;Salvador;1;2;1;21-11-2017 16:47:23;Escolha o alimento mais processado;104;1;43;0;104 eh mais processado que 43;False;-1;0.1516438
+0;Salvador;1;2;1;21-11-2017 16:47:24;Escolha o alimento menos processado;4;2;29;0;29 eh menos processado que 4;True;6;0.3369865
+0;Salvador;1;2;1;21-11-2017 16:47:24;Escolha o alimento mais processado;97;2;50;0;97 eh mais processado que 50;True;13;0.2527351
+0;Salvador;1;2;1;21-11-2017 16:47:25;Escolha o alimento mais processado;73;1;121;2;121 eh mais processado que 73;True;20;0.1686325
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;21-11-2017 16:49:52;Escolha o alimento menos processado;98;2;23;1;23 eh menos processado que 98;False;-3;1.789133
+0;Salvador;1;2;1;21-11-2017 16:49:53;Escolha o alimento mais processado;110;1;48;0;110 eh mais processado que 48;False;-6;0.185339
+0;Salvador;1;2;1;21-11-2017 16:49:53;Escolha o alimento menos processado;50;0;116;2;50 eh menos processado que 116;True;1;0.1176052
+0;Salvador;1;2;1;21-11-2017 16:49:53;Escolha o alimento mais processado;24;0;97;2;97 eh mais processado que 24;True;8;0.08425331
+0;Salvador;1;2;1;21-11-2017 16:49:54;Escolha o alimento mais processado;38;2;100;0;38 eh mais processado que 100;True;15;0.0670929
+0;Salvador;1;2;1;21-11-2017 16:49:54;Escolha o alimento mais processado;60;0;94;2;94 eh mais processado que 60;True;22;0.08395958
+0;Salvador;1;2;1;21-11-2017 16:49:54;Escolha o alimento menos processado;5;2;65;1;65 eh menos processado que 5;False;19;0.1179447
+0;Salvador;1;2;1;21-11-2017 16:49:54;Escolha o alimento menos processado;76;0;45;2;76 eh menos processado que 45;False;16;0.1347961
+0;Salvador;1;2;1;21-11-2017 16:49:55;Escolha o alimento mais processado;77;0;119;2;119 eh mais processado que 77;False;13;0.1684971
+0;Salvador;1;2;1;21-11-2017 16:49:55;Escolha o alimento menos processado;87;0;9;2;87 eh menos processado que 9;False;10;0.1516418
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;21-11-2017 16:50:04;Escolha o alimento mais processado;114;2;48;0;114 eh mais processado que 48;True;7;3.922129
+0;Salvador;1;2;1;21-11-2017 16:50:06;Escolha o alimento menos processado;133;0;101;2;133 eh menos processado que 101;True;14;1.937586
+0;Salvador;1;2;1;21-11-2017 16:50:08;Escolha o alimento menos processado;93;2;81;0;81 eh menos processado que 93;True;21;1.297396
+0;Salvador;1;2;1;21-11-2017 16:50:10;Escolha o alimento menos processado;69;1;83;2;69 eh menos processado que 83;True;28;2.005077
+0;Salvador;1;2;1;21-11-2017 16:50:11;Escolha o alimento mais processado;73;1;7;2;7 eh mais processado que 73;False;25;1.095207
+0;Salvador;1;2;1;21-11-2017 16:50:13;Escolha o alimento menos processado;119;2;16;0;16 eh menos processado que 119;True;32;1.802837
+0;Salvador;1;2;1;21-11-2017 16:50:15;Escolha o alimento menos processado;53;0;124;2;53 eh menos processado que 124;True;39;1.56698
+0;Salvador;1;2;1;21-11-2017 16:50:17;Escolha o alimento mais processado;74;1;8;0;74 eh mais processado que 8;True;46;1.44902
+0;Salvador;1;2;1;21-11-2017 16:50:18;Escolha o alimento mais processado;19;0;115;2;115 eh mais processado que 19;True;53;1.364458
+0;Salvador;1;2;1;21-11-2017 16:50:20;Escolha o alimento mais processado;125;2;128;0;125 eh mais processado que 128;True;60;1.635122
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;21-11-2017 15:25:11;Escolha o alimento menos processado;4;2;35;1;35 eh menos processado que 4;True;7;1.448536
+0;Salvador;1;2;1;21-11-2017 15:25:11;Escolha o alimento menos processado;67;1;109;0;109 eh menos processado que 67;False;4;0.1007938
+0;Salvador;1;2;1;21-11-2017 15:25:12;Escolha o alimento mais processado;39;0;5;2;5 eh mais processado que 39;True;11;0.117918
+0;Salvador;1;2;1;21-11-2017 15:25:12;Escolha o alimento menos processado;14;2;129;0;129 eh menos processado que 14;False;8;0.101099
+0;Salvador;1;2;1;21-11-2017 15:25:12;Escolha o alimento menos processado;130;2;19;0;19 eh menos processado que 130;True;15;0.08424759
+0;Salvador;1;2;1;21-11-2017 15:25:12;Escolha o alimento mais processado;118;2;30;0;118 eh mais processado que 30;True;22;0.1179409
+0;Salvador;1;2;1;21-11-2017 15:25:12;Escolha o alimento mais processado;8;0;108;2;108 eh mais processado que 8;True;29;0.06792259
+0;Salvador;1;2;1;21-11-2017 15:25:13;Escolha o alimento menos processado;99;2;36;0;36 eh menos processado que 99;False;26;0.1026917
+0;Salvador;1;2;1;21-11-2017 15:25:13;Escolha o alimento mais processado;74;1;115;2;115 eh mais processado que 74;True;33;0.08424568
+0;Salvador;1;2;1;21-11-2017 15:25:13;Escolha o alimento menos processado;45;2;13;1;13 eh menos processado que 45;False;30;0.08424187
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;21-11-2017 15:36:52;Escolha o alimento mais processado;5;2;53;0;5 eh mais processado que 53;False;-3;4.141376
+0;Salvador;1;2;1;21-11-2017 15:36:52;Escolha o alimento menos processado;39;0;96;2;39 eh menos processado que 96;True;4;0.06731033
+0;Salvador;1;2;1;21-11-2017 15:36:52;Escolha o alimento menos processado;88;2;21;0;21 eh menos processado que 88;True;11;0.1010952
+0;Salvador;1;2;1;21-11-2017 15:36:53;Escolha o alimento menos processado;91;1;123;2;91 eh menos processado que 123;True;18;0.1028156
+0;Salvador;1;2;1;21-11-2017 15:36:53;Escolha o alimento menos processado;132;0;52;1;132 eh menos processado que 52;False;15;0.1012955
+0;Salvador;1;2;1;21-11-2017 15:36:53;Escolha o alimento mais processado;72;2;79;0;72 eh mais processado que 79;True;22;0.1002655
+0;Salvador;1;2;1;21-11-2017 15:36:53;Escolha o alimento mais processado;38;2;74;1;38 eh mais processado que 74;False;19;0.1179466
+0;Salvador;1;2;1;21-11-2017 15:36:53;Escolha o alimento menos processado;80;0;11;1;80 eh menos processado que 11;True;26;0.1011429
+0;Salvador;1;2;1;21-11-2017 15:36:54;Escolha o alimento mais processado;115;2;76;0;115 eh mais processado que 76;False;23;0.08424568
+0;Salvador;1;2;1;21-11-2017 15:36:54;Escolha o alimento menos processado;107;2;37;1;37 eh menos processado que 107;False;20;0.1015339
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;21-11-2017 16:10:20;Escolha o alimento menos processado;116;2;27;0;27 eh menos processado que 116;False;-3;1.938654
+0;Salvador;1;2;1;21-11-2017 16:10:20;Escolha o alimento menos processado;105;0;130;2;105 eh menos processado que 130;False;-6;0.08420372
+0;Salvador;1;2;1;21-11-2017 16:10:20;Escolha o alimento menos processado;121;2;77;0;77 eh menos processado que 121;False;-9;0.06739616
+0;Salvador;1;2;1;21-11-2017 16:10:21;Escolha o alimento menos processado;124;2;71;1;71 eh menos processado que 124;True;-2;0.08448792
+0;Salvador;1;2;1;21-11-2017 16:10:21;Escolha o alimento menos processado;101;2;81;0;81 eh menos processado que 101;False;-5;0.06739616
+0;Salvador;1;2;1;21-11-2017 16:10:21;Escolha o alimento mais processado;46;2;100;0;46 eh mais processado que 100;False;-8;0.05072021
+0;Salvador;1;2;1;21-11-2017 16:10:21;Escolha o alimento menos processado;23;1;89;2;23 eh menos processado que 89;True;-1;0.03322983
+0;Salvador;1;2;1;21-11-2017 16:10:22;Escolha o alimento mais processado;9;2;87;0;9 eh mais processado que 87;False;-4;0.08355904
+0;Salvador;1;2;1;21-11-2017 16:10:22;Escolha o alimento mais processado;131;2;37;1;131 eh mais processado que 37;True;3;0.07160568
+0;Salvador;1;2;1;21-11-2017 16:10:23;Escolha o alimento mais processado;45;2;1;0;45 eh mais processado que 1;False;0;0.3538342
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;21-11-2017 16:12:35;Escolha o alimento menos processado;15;2;54;1;54 eh menos processado que 15;True;7;3.658098
+0;Salvador;1;2;1;21-11-2017 16:12:37;Escolha o alimento menos processado;27;0;94;2;27 eh menos processado que 94;False;4;1.600679
+0;Salvador;1;2;1;21-11-2017 16:12:38;Escolha o alimento menos processado;71;1;100;0;100 eh menos processado que 71;False;1;0.1853428
+0;Salvador;1;2;1;21-11-2017 16:12:38;Escolha o alimento mais processado;89;2;61;0;89 eh mais processado que 61;False;-2;0.1346798
+0;Salvador;1;2;1;21-11-2017 16:12:38;Escolha o alimento menos processado;52;1;63;0;63 eh menos processado que 52;False;-5;0.08424568
+0;Salvador;1;2;1;21-11-2017 16:12:38;Escolha o alimento menos processado;82;1;77;0;77 eh menos processado que 82;True;2;0.101099
+0;Salvador;1;2;1;21-11-2017 16:12:39;Escolha o alimento mais processado;73;1;8;0;73 eh mais processado que 8;True;9;0.1010952
+0;Salvador;1;2;1;21-11-2017 16:12:39;Escolha o alimento mais processado;108;2;28;0;108 eh mais processado que 28;False;6;0.2358913
+0;Salvador;1;2;1;21-11-2017 16:12:39;Escolha o alimento mais processado;85;0;93;2;93 eh mais processado que 85;False;3;0.2190342
+0;Salvador;1;2;1;21-11-2017 16:12:40;Escolha o alimento mais processado;59;0;116;2;116 eh mais processado que 59;True;10;0.1853428
+Id;Nome;Idade;Fase;Nivel;Data e Hora;Pergunta;Alimento 1;Np1;Alimento 2;Np2;Resposta;Acertou;Pontuacao;Tempo para resposta
+0;Salvador;1;2;1;21-11-2017 16:13:03;Escolha o alimento menos processado;24;0;122;2;24 eh menos processado que 122;True;7;15.75838
+0;Salvador;1;2;1;21-11-2017 16:13:07;Escolha o alimento menos processado;121;2;73;1;73 eh menos processado que 121;True;14;3.36964
+0;Salvador;1;2;1;21-11-2017 16:13:10;Escolha o alimento menos processado;101;2;25;0;25 eh menos processado que 101;True;21;2.561092
+0;Salvador;1;2;1;21-11-2017 16:13:13;Escolha o alimento mais processado;108;2;23;1;108 eh mais processado que 23;True;28;2.544493
+0;Salvador;1;2;1;21-11-2017 16:13:16;Escolha o alimento mais processado;71;1;118;2;118 eh mais processado que 71;True;35;2.004864
+0;Salvador;1;2;1;21-11-2017 16:13:17;Escolha o alimento menos processado;59;0;15;2;59 eh menos processado que 15;True;42;1.432194
+0;Salvador;1;2;1;21-11-2017 16:13:19;Escolha o alimento mais processado;89;2;56;0;89 eh mais processado que 56;True;49;1.735477
+0;Salvador;1;2;1;21-11-2017 16:13:21;Escolha o alimento mais processado;6;2;27;0;6 eh mais processado que 27;True;56;1.56699
+0;Salvador;1;2;1;21-11-2017 16:13:25;Escolha o alimento menos processado;96;2;16;0;16 eh menos processado que 96;True;63;3.90904
+0;Salvador;1;2;1;21-11-2017 16:13:33;Escolha o alimento mais processado;130;2;128;0;130 eh mais processado que 128;True;70;7.733725
